@@ -6,11 +6,11 @@
 
 I am a [Purdue Engineering](https://engineering.purdue.edu/Engr) graduate.
 
-I live in Detroit, The Comeback City!
+I live in **Detroit**, The Comeback City!
 
 ![A photo of Downtown Detroit taken at night with several prominent and historic buildings shown](https://github.com/motorcityadam/motorcityadam/blob/main/static/detroit.jpg) 
 
-**These days, I am mostly working on and researching:**
+:books: **These days, I am mostly working on and researching:**
 
 * Hard real-time operating systems
 * Computer-aided engineering technologies
@@ -18,7 +18,7 @@ I live in Detroit, The Comeback City!
 * Machine Learning for manufacturing
 * Interactive, web-based technical education
 
-**Favorite and most frequently used programming languages:**
+:computer: **Favorite and most frequently used programming languages:**
 
 * Rust
 * Python
@@ -29,11 +29,15 @@ I live in Detroit, The Comeback City!
 
 :zap: Fun fact: My first hobby programming language was [QBasic](https://en.wikipedia.org/wiki/QBasic). My first professional programming language was [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)).
 
+<div style="display: flex; margin-bottom: 1em;">
+
 <a href="https://builtindetroit.today">
-<img src="https://github.com/motorcityadam/motorcityadam/blob/main/static/built_in_detroit_logo.png" alt="The Built In Detroit logo" width="50%"/>
+<img src="https://github.com/motorcityadam/motorcityadam/blob/main/static/built_in_detroit_logo.png" alt="The Built In Detroit logo" style="max-width: 100px;"/>
 </a>
 
-I recently became a collaborator for the [Built In Detroit](https://builtindetroit.today) project - an ambitious effort to create open and accessible engineering and manufacturing educational experiences and resources.
+<p style="margin-left: 1em;">I recently became a collaborator for the [Built In Detroit](https://builtindetroit.today) project - an ambitious effort to create open and accessible engineering and manufacturing educational experiences and resources.</p>
+
+</div>
 
 :artificial_satellite: **I am generally hanging out on:**
 
