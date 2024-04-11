@@ -1,6 +1,11 @@
 ## :wave: Hi there! Adam Cook (he/him) here.
 
-:factory: My career experience is primarily in designing, building and programming production machinery, industrial automation, manufacturing floors and custom robotics.
+:factory: My career experience is primarily in designing, building and/or programming:
+
+* Production machinery
+* Industrial automation lines and cells
+* Manufacturing floors
+* Custom robotics
 
 :gear: I am a former machinist. I worked on many floors around Northwest Indiana and South Chicago back in the day.
 
