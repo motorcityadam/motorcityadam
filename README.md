@@ -29,15 +29,9 @@ I live in **Detroit**, The Comeback City!
 
 :zap: Fun fact: My first hobby programming language was [QBasic](https://en.wikipedia.org/wiki/QBasic). My first professional programming language was [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)).
 
-<div style="display: flex; margin-bottom: 1em;">
+[![The Built In Detroit logo](https://github.com/motorcityadam/motorcityadam/blob/main/static/built_in_detroit_logo.png)](https://builtindetroit.today)
 
-<a href="https://builtindetroit.today">
-<img src="https://github.com/motorcityadam/motorcityadam/blob/main/static/built_in_detroit_logo.png" alt="The Built In Detroit logo" style="max-width: 100px;"/>
-</a>
-
-<p style="margin-left: 1em;">I recently became a collaborator for the [Built In Detroit](https://builtindetroit.today) project - an ambitious effort to create open and accessible engineering and manufacturing educational experiences and resources.</p>
-
-</div>
+I recently became a collaborator for the [Built In Detroit](https://builtindetroit.today) project - an ambitious effort to create open and accessible engineering and manufacturing educational experiences and resources.
 
 :artificial_satellite: **I am generally hanging out on:**
 
