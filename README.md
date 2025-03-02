@@ -1,6 +1,6 @@
 ## :wave: Hi there! Adam Cook (he/him) here.
 
-:factory: My career experience is primarily in designing, building and/or programming:
+:factory: I primarily design and build:
 
 * Production machinery
 * Industrial automation lines and cells
@@ -34,15 +34,13 @@ I live in **Detroit**, The Comeback City!
 
 :zap: Fun fact: My first hobby programming language was [QBasic](https://en.wikipedia.org/wiki/QBasic). My first professional programming language was [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)).
 
-[![The Built In Detroit logo](https://github.com/motorcityadam/motorcityadam/blob/main/static/built_in_detroit_logo.png)](https://builtindetroit.today)
+[![The 7DET logo](https://github.com/motorcityadam/motorcityadam/blob/main/static/7det-logo.png)](https://7det.org)
 
-I recently became a collaborator for the [Built In Detroit](https://builtindetroit.today) project - an ambitious effort to create open and accessible engineering and manufacturing educational experiences and resources.
+I am a contributor for the [7DET](https://7det.org) project - an ambitious effort to create open and accessible educational experiences around Hard Tech development in Detroit.
 
 :artificial_satellite: **I am generally hanging out on:**
 
-[![Threads](https://img.shields.io/badge/Threads-motorcityadam-blue?style=flat-square)](https://www.threads.net/@motorcityadam)
-
-[![Discord](https://img.shields.io/discord/677517706940907521?label=Discord%20Chat&style=flat-square)](https://discord.gg/ssvcVNJ)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@motorcityadam.com-blue?style=flat-square)](https://bsky.app/profile/motorcityadam.com)
 
 Reach out any time!
 
